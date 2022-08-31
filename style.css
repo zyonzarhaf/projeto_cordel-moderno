@@ -82,10 +82,10 @@ section.imagem > p {
 footer {
     background-color: black;
     padding: 10px;
-    text-align: center;
 }
 
 footer > p {
+    text-align: center;
     color: white;
 }
 
